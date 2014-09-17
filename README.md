@@ -16,6 +16,6 @@ Follow these steps with your group and build out an awesome simulation!
 
 + On a whiteboard, think about your city. What models do you want to include (city, building, person, vehicle, etc...)
 
-+ For each model, map out the different attributes and actions that it shoudl include.
++ For each model, map out the different attributes and actions that it should include.
 
 + Start building - Make sure to start small, test your app frequently, and build out from there. Since you're working in groups, **COMMUNICATION IS KEY!!!** Talk through your problems out loud, encourage each other, make sure you're switching off the driver and navigator roles.
