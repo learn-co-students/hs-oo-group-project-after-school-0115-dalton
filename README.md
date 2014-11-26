@@ -19,3 +19,5 @@ Follow these steps with your group and build out an awesome simulation!
 + For each model, map out the different attributes and actions that it should include.
 
 + Start building - Make sure to start small, test your app frequently, and build out from there. Since you're working in groups, **COMMUNICATION IS KEY!!!** Talk through your problems out loud, encourage each other, make sure you're switching off the driver and navigator roles.
+
+Here is a link to the OO jungle project that we demo-ed in class: [Jungle](git@github.com:flatiron-school-curriculum/hs-oo-group-project.git)
